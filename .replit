@@ -1,0 +1,6 @@
+language = "Java"
+run = "java Problem1.java"
+#run = "java Problem2.java"
+#run = "java Problem3.java"
+#run = "java Problem4.java"
+#run = "java Problem5.java"
